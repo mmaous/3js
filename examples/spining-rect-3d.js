@@ -16,10 +16,9 @@ scene.add( cube );
 
 camera.position.z = 5;
 
-function animate() {
+export function animate() {
 	requestAnimationFrame( animate );
   cube.rotation.x += 0.001;
   cube.rotation.y += 0.01;
 	renderer.render( scene, camera );
 }
-animate();
