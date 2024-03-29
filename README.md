@@ -21,7 +21,7 @@ To get started with Three.js, follow these steps:
 
 - [Official Three.js Documentation](https://threejs.org/docs/)
 - [Three.js Examples](https://threejs.org/examples/)
-- [Three.js Fundamentals](https://threejsfundamentals.org/)
+- [Three.js Fundamentals](https://threejs.org/manual/)
 - [Three.js Journey](https://threejs-journey.com/) (Paid Course)
 - [Discover Three.js](https://discoverthreejs.com/) (Book)
 
